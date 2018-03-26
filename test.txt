@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Hello Git!
 It`s new line.
 123
-=======
-Hello Git!
->>>>>>> parent of 8989fd6... Second commit: add new line in file test.txt
