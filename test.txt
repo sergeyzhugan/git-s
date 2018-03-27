@@ -3,5 +3,3 @@ It`s new line.
 123
 
 new branch
-
-chech for dev branch
